@@ -1,4 +1,4 @@
-Vim编辑器
+# Vim编辑器 #
 
 主要记录几点内容
 记录总结在学习Vim过程中的知识点：
@@ -11,7 +11,7 @@ Vim编辑器
 
 [介绍Vim是什么？为什么使用Vim]
 
-Vim[www.vim.org] 是一个文本界面的编辑工具，具有高配置性，使用简单功能强大；Vim是所有Linux发行版本默认的文本编辑器。
+Vim [www.vim.org] 是一个文本界面的编辑工具，具有高配置性，使用简单功能强大；Vim是所有Linux发行版本默认的文本编辑器。
 
 Vi是Vim的早期版本，Vim（Vi improved）是Vim的增强版，主要增加了一些多窗口编辑、查找功能。
 
@@ -42,11 +42,12 @@ Vim有三个工作模式：命令模式、编辑模式和末行模式。三个�
     ```
 若需要打开多个文件，情况如下：
 
-    ```Shell 
-        ##打开多个wenjian
-
-        $ vim /workspace/test.vi /workspace/helloworld.c
-    ```
+~~~shell
+```Shell 
+    ##打开多个wenjian
+    $ vim /workspace/test.vi /workspace/helloworld.c
+```
+~~~
 在【命令模式】下，输入：ls 查看所打开的文件；
 
 在【命令模式】下，输入：b <num>   "<num>"则是第几个文件。
@@ -66,7 +67,6 @@ Vim有三个工作模式：命令模式、编辑模式和末行模式。三个�
    ```Shell
         #将文件helloworld.c保存到指定目录，但不退出。
         :w /workspace/helloworld.c
-
    ```
 
    在【命令模式】下，输入 ZZ 或 按两次 “shift + Z”也可以不保存退出。
