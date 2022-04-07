@@ -1,12 +1,14 @@
-# 常用软件安装
+# 常用软件安装-Python安装
 
-anaconda、python（配置jupyterlab）、redis、mysql、nginx、mongodb
+常用软件安装，将在CentOS7环境逐步完成，anaconda、python（配置jupyterlab）、redis、mysql、nginx、mongodb安装，是之前各个章节知识的实践。主要目标：
 
-## Python安装 ##
+1、熟悉Linux的命令；
+
+2、熟悉Linux下目录结构；
 
 ![0701](./res/0701.png)
 
-### 1、前期准备
+## 1、前期准备
 
 0）通过SSH连接远程CentOS（ssh）
 
@@ -38,9 +40,9 @@ Linux centos7 3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017 x86_64 x
 [paul@centos7 ~]$ cd Python-3.10.4
 ```
 
-### 2、安装
+## 2、安装
 
-#### 	1) 安装Python
+### 	1) 安装Python
 
 编译安装python（make、su）
 
@@ -126,7 +128,7 @@ Required-by:
 pip 22.0.4 from /usr/local/python310/lib/python3.10/site-packages/pip (python 3.10)
 ```
 
-#### 	2）安装JuypterLab
+### 	2）安装JuypterLab
 
 安装Jupyterlab 
 
@@ -196,13 +198,13 @@ jupyter labextension install @jupyterlab/toc
 
 ```
 
-### 3、验证
+## 3、验证
 
 查看python版本
 
 回顾使用的Linux命令（history）
 
-### 4、总结
+## 4、总结
 
 参考：[Linux 命令详解（三）./configure、make、make install 命令](https://www.cnblogs.com/tinywan/p/7230039.html)
 
