@@ -6,7 +6,7 @@
 - 2、熟悉Linux下目录结构；
 - 3、 安装思维导图
 
-![0701](./res/0701.png)
+<img src="./res/0701.png" alt="0701" style="zoom:33%;" />
 
 ## 1、前期准备
 
@@ -97,7 +97,7 @@ lrwxrwxrwx.  1 root root        25 Apr  6 14:56 python310 -> /usr/local/bin/pyth
 
 - D. 更改pip源地址（清华、阿里等）（vim）
 
-​修改 ~/.pip/pip.conf
+修改 ~/.pip/pip.conf
 
 ```shell
 [global]
