@@ -6,7 +6,7 @@
 - 2、熟悉Linux下目录结构；
 - 3、 安装思维导图
 
-<img src="./res/0701.png" alt="0701" style="zoom:33%;" />
+<img src="./res/0801.png" alt="0701" style="zoom:33%;" />
 
 ## 1、前期准备
 
