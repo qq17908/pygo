@@ -13,9 +13,17 @@ Python的思路： 主题学习 + 练习
 * 练习是否可以将leetcode + 数据结构（边学习边找）
 
 
+### 数据科学
+    主要包括numpy、pandas、plotly
+
 ### 参考书籍
 1、Python学习手册
+2、Python核心编程
+3、流畅的Python
+4、Python-100天从新手到大师
 
+4、利用Python进行数据分析
+5、Python金融大数据分析
 
 
 
