@@ -9,7 +9,7 @@ Vim编辑器
 
 <img src="./res/0601.png" alt="0601" style="zoom:75%;" />
 
-## Vim的介绍
+# Vim的介绍
 
 ***介绍Vim是什么？为什么使用Vim***
 
@@ -19,11 +19,11 @@ Vi是Vim的早期版本，Vim（Vi improved）是Vi的增强版，主要增加�
 
 可通过[Vimhelp](https://vimhelp.org/) 学习Vim的基本功能、查看Vim功能设置。
 
-## Vim的基本应用
+# Vim的基本应用
 
 ***介绍Vim的基本功能用法：启用和退出Vim、编辑功能（编辑、保存、修改、删除、替换、查找等）、基本参数设定***
 
-### 1. Vim的工作模式
+## 1. Vim的工作模式
 
 Vim有三个工作模式：***命令模式***、***编辑模式***和***末行模式***。三个模式之间相互切换：
 
@@ -34,7 +34,7 @@ Vim有三个工作模式：***命令模式***、***编辑模式***和***末行�
 
 - 3）在【编辑模式】下，按**英文的“:”**则加入【末行模式】，在最下方可以输入相关命令。例如:输入 q！ - 则不保存当前文档并退出。
 
-### 2. Vim的启动和退出
+## 2. Vim的启动和退出
 
 - A. 通过Vi / Vim 命令来启用Vim:
 
@@ -77,7 +77,7 @@ $ vim /workspace/test.vi /workspace/helloworld.c
 
    在【命令模式】下，输入 ZZ 或 按两次 “shift + Z”也可以不保存退出。
 
-### 3. Vim的光标操作
+## 3. Vim的光标操作
 
 - 在【命令模式】下，以字符为单位移动光标：
       1）使用“h、j、k、l”（即左、下、上、右）可以控制光标以字符为单位移动；在字母前输入‘数字’则表示移动的距离。
@@ -112,7 +112,7 @@ $ vim /workspace/test.vi /workspace/helloworld.c
 
     可以通过Ctrl+f和Ctrl+b来实现向前和向后翻页的操作
 
-### 4.Vim文本复制、粘贴、删除操作
+## 4.Vim文本复制、粘贴、删除操作
 
 ***1）删除***
 
@@ -140,7 +140,7 @@ $ vim /workspace/test.vi /workspace/helloworld.c
 
 - 在【命令模式】下，输入'u'表示撤销之前的操作；'ctrl+r'则表示恢复撤销的操作。
 
-### 5. Vim查找和替换操作
+## 5. Vim查找和替换操作
 
 ***1）查找***
 
@@ -169,7 +169,7 @@ $ vim /workspace/test.vi /workspace/helloworld.c
 
 如果不带'g'，则只替换每行第一个找到的字符串。
 
-### 6.Vim的其它应用
+## 6.Vim的其它应用
 
 **1）Vim配置文件**
 
@@ -192,7 +192,7 @@ $ vim /workspace/test.vi /workspace/helloworld.c
 
 ​	如果需要将Shell的执行结果，放入文档。在【编辑模式】下使用'r'。例如：:r ! date
 
-## Vim小结
+# Vim小结
 
 1、Vim是Linux上自带的编辑器；
 
