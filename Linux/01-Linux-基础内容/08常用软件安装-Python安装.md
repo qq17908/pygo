@@ -42,7 +42,7 @@ Linux centos7 3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017 x86_64 x
 
 ## 2、安装
 
-### 1) 安装Python
+### 1. 安装Python
 
 - A. 编译安装python（make、su）
 
@@ -129,7 +129,7 @@ Required-by:
 pip 22.0.4 from /usr/local/python310/lib/python3.10/site-packages/pip (python 3.10)
 ```
 
-### 2）安装JuypterLab
+### 2. 安装JuypterLab
 
 - A. 安装Jupyterlab
 
