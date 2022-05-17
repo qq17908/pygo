@@ -37,7 +37,6 @@ Vim是一个文本界面的编辑工具，具有高配置性，使用简单功�
 [ Python安装](./01-Linux-%E5%9F%BA%E7%A1%80%E5%86%85%E5%AE%B9/08%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85-Python%E5%AE%89%E8%A3%85.md)
 
 
-
 [MySql安装](./01-Linux-%E5%9F%BA%E7%A1%80%E5%86%85%E5%AE%B9/08%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85-MySql%E5%AE%89%E8%A3%85.md)
 
 
@@ -45,11 +44,27 @@ Vim是一个文本界面的编辑工具，具有高配置性，使用简单功�
 
 # 二. Linux-进阶内容
 
+该阶段主要了解进程管理、服务管理、Shell Script相关知识点。
+
+实践内容：
+1. 安装部署：Web 服务器、 NFS文件服务器
+（使用Docker、Nginx）
+
+2. Web架构演变(目的：了解分布式架构)
+
+3. ShellScript
+ 
 
 # 参考书籍
 
-细说Linux基础知识
-鸟哥的Linux私房菜
-Linux就该这么学
+[细说Linux基础知识](https://book.douban.com/subject/30767331/)
 
-UNIX环境高级编程(第3版)
+[鸟哥的Linux私房菜](https://book.douban.com/subject/30359954/)
+
+[Linux就该这么学](https://book.douban.com/subject/27198046/)
+
+[UNIX环境高级编程(第3版)](https://book.douban.com/subject/25900403/)
+
+[Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
+
+[Java 程序员眼中的 Linux](https://youmeek.gitbooks.io/linux-tutorial/content/markdown-file/Linux.html)
