@@ -54,17 +54,20 @@ Vim是一个文本界面的编辑工具，具有高配置性，使用简单功�
 
 3. ShellScript
 
+# 三. Linux-专题文章
 
-# 参考书籍
 
+# 四. 参考书籍
+
+0. 它山之石
+[Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
+[Java 程序员眼中的 Linux](https://youmeek.gitbooks.io/linux-tutorial/content/markdown-file/Linux.html)
+
+1. 基础
 [细说Linux基础知识](https://book.douban.com/subject/30767331/)
-
 [鸟哥的Linux私房菜](https://book.douban.com/subject/30359954/)
-
 [Linux就该这么学](https://book.douban.com/subject/27198046/)
 
+2. 进阶
 [UNIX环境高级编程(第3版)](https://book.douban.com/subject/25900403/)
 
-[Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
-
-[Java 程序员眼中的 Linux](https://youmeek.gitbooks.io/linux-tutorial/content/markdown-file/Linux.html)

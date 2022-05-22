@@ -21,7 +21,7 @@ Python的思路： 主题学习 + 练习
 
 * 练习是否可以将leetcode + 数据结构（边学习边找）
 
-# 数据科学
+# 数据分析
 
 主要包括numpy、pandas、plotly
 
@@ -32,6 +32,6 @@ Python的思路： 主题学习 + 练习
 3. 流畅的Python
 4. Python-100天从新手到大师
 
-1. 利用Python进行数据分析
+5. 利用Python进行数据分析
 
-2. Python金融大数据分析
+6. Python金融大数据分析
